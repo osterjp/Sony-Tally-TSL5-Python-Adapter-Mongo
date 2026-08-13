@@ -240,4 +240,4 @@ Before using the data as proof of air, validate at minimum:
 8. Host PTP lock and Sony-to-MAGNUM-to-adapter latency are measured and documented.
 
 This code is implementation-ready but must be validated with packet captures from the installed Evertz MAGNUM release and the actual Sony tally configuration before production certification.
-oading README.md…]()
+loading README.md…]()
